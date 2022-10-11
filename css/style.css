@@ -1,19 +1,8 @@
 /* External style sheet for all pages of Nathan Cloutier's personal website.*/
 
 /*#region Mobile*/
-.Container{
+.container{
     background-color: lightblue;
     border: solid 2px black;
-    padding: 10px px;
-}
-
-#Nav{
-    display:grid;
-    grid: 1fr/repeat(4,1fr);    
-}
-
-a{
-    text-align: center;
-    color:#bf404b;
 }
 /*#endregion Mobile*/
