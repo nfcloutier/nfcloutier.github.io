@@ -243,6 +243,9 @@ nav>a:nth-child(3){
 
 #resume{
     grid-area: 2/1/3/2;
+    display:flex;
+    justify-content: center;
+    align-items:center;
 }
 
 
